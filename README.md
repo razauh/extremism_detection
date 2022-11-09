@@ -1,1 +1,1 @@
-# extremism_detection
+# Extremism Detection
